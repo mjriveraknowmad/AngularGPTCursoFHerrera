@@ -1,10 +1,12 @@
 import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { routes } from '../../../app.routes';
+import { SidebarMenuItem } from '../../components/sidebar-menu-item/sidebar-menu-item';
+
 
 @Component({
   selector: 'app-dashboard-layout',
-  imports: [RouterModule],
+  imports: [RouterModule, SidebarMenuItem],
   templateUrl: './dashboard-layout.html',
 })
 export class DashboardLayout {
