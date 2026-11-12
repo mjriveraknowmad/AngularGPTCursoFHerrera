@@ -6,4 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './image-tunning-page.html',
   styleUrl: './image-tunning-page.css',
 })
-export class ImageTunningPage {}
+export default class ImageTunningPage {}

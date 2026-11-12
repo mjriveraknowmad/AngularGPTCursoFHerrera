@@ -6,4 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './ortography-page.html',
   styleUrl: './ortography-page.css',
 })
-export class OrtographyPage {}
+export default class OrtographyPage {}

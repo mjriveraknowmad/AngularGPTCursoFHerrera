@@ -6,4 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './pros-cons-stream-page.html',
   styleUrl: './pros-cons-stream-page.css',
 })
-export class ProsConsStreamPage {}
+export default class ProsConsStreamPage {}

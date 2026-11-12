@@ -6,4 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './audio-to-text-page.html',
   styleUrl: './audio-to-text-page.css',
 })
-export class AudioToTextPage {}
+export default class AudioToTextPage {}

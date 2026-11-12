@@ -6,4 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './image-generation-page.html',
   styleUrl: './image-generation-page.css',
 })
-export class ImageGenerationPage {}
+export default class ImageGenerationPage {}
