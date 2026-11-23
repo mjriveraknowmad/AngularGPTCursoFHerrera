@@ -3,6 +3,7 @@ import { Message } from 'src/app/interfaces';
 import { ChatMessage, MyMessage, TypingLoader, TextMessageBox } from '@components/index';
 import { Ai } from 'src/app/presentation/services/ai';
 
+/** Este componente representa la plantilla de chat, para copiar, pegar y reutilizar en otras partes de la aplicación */
 @Component({
   selector: 'app-chat-template',
   imports: [ChatMessage, MyMessage, TypingLoader, TextMessageBox],
