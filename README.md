@@ -1,7 +1,8 @@
 # AngularGPTCursoFHerrera
 
-Aplicación **Angular 21** creada con Angular CLI, estilizada con **Tailwind CSS v4** y preparada
-para trabajar con **Gemini** y **GitHub Copilot**.
+Aplicación **Angular 21** creada con Angular CLI, estilizada con **Tailwind CSS v4** y preparada para trabajar con **Gemini** y **GitHub Copilot**.
+
+Para usar la aplicación debe estar levantado el backend https://github.com/mjriveraknowmad/angular-openai-backend (donde se debe meter la configuración de gemini)
 
 ## Requisitos
 
